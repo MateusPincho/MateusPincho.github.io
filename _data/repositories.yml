@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - MateusPincho
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - SmartFactoryLab-UFCG/OmniBot
+  - ieee-ras-ufcg/PyRAS
+  - MateusPincho/Calibration-Mocap
+  - debOliveira/MoCapRasp
+  - loolirer/VirtualMoCap
+  - MateusPincho/CPN-Fabric
+  - MateusPincho/Introduction-to-FreeRTOS

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-03-19 12:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+For developing the robotics and automation area in the Northeast Brazil Region, receive the _IEEE RAS Exemplary Student of Northeast Brazil Section Award_.

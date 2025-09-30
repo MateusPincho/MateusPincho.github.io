@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-11-19 12:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Starting in the position of Research Student in Smart Factory Lab, focusing in the development of digital twins for industrial environment.  
