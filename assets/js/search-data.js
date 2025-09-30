@@ -25,14 +25,14 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of my projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "My Github account and a list of online repositories of cool projects that I contribute in the past years.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -43,20 +43,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
@@ -440,16 +426,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-starting-in-the-position-of-research-student-in-smart-factory-lab-focusing-in-the-development-of-digital-twins-for-industrial-environment",
+          title: 'Starting in the position of Research Student in Smart Factory Lab, focusing in...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-for-developing-the-robotics-and-automation-area-in-the-northeast-brazil-region-receive-the-ieee-ras-exemplary-student-of-northeast-brazil-section-award",
+          title: 'For developing the robotics and automation area in the Northeast Brazil Region, receive...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-as-chair-of-ieee-ras-student-branch-chapter-of-ufcg-received-the-award-of-ieee-ras-student-branch-chapter-of-the-year-2025",
+          title: 'As chair of IEEE RAS Student Branch Chapter of UFCG, received the award...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
