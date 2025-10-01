@@ -1,61 +1,75 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Mateus Pincho de Oliveira",
+    "label": "Robotics Engineer",
+    "image": "prof_pic.jpg",
+    "email": "mateus.oliveira@ee.ufcg.edu.br",
+    "phone": "",
+    "url": "https://mateuspincho.github.io/",
+    "summary": "An electrical engineer with emphasis on Control and Automation, seeking for a robotics interniship opportunity",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Campina Grande",
+      "countryCode": "BR",
+      "region": "Paraíba"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkdIn",
+        "username": "Mateus Pincho",
+        "url": "https://www.linkedin.com/in/mateus-pincho/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Center of Research, Development, and Innovation (VIRTUS), Universidade Federal de Campina Grande",
+      "position": "Industrial Robotics Research Student",
+      "url": "https://github.com/SmartFactoryLab-UFCG/OmniBot",
+      "startDate": "2024-09-01",
+      "endDate": "Present",
+      "summary": "Development of intelligent systems for smart factory scenarios",
+      "highlights": ["Led the development of an omnidirectional mobile robot from scratch, implementing its software architecture with state-of-the-art technologies like ROS2 Control and ROS2 Navigation.",
+                     "Created a Digital Shadow in Isaac Sim for advanced simulation and analysis of navigation algorithms, validating the robot's behavior in a laboratory environment.",
+                     "Utilized the system as an R&D platform to test and improve autonomous navigation algorithms in scenarios simulating smart factory environments."]
+    },
+    {
+      "name": "Automation and Robotics Laboratory (eROBOTICA), Universidade Federal de Campina Grande",
+      "position": "Computer Vision Research Student",
+      "url": "https://github.com/loolirer/VirtualMoCap",
+      "startDate": "2022-09-01",
+      "endDate": "2024-08-01",
+      "summary": "Development of motion captures system using off-the-shelf hardware, applying multiple view computer vision algorithms for tracking moving objects.",
+      "highlights": ["Development and improvement of a motion capture system using low-cost off-the-shelf hardware, achieving an accuracy of less than 1 centimeter when tracking micro-air vehicles at 100Hz.",
+                     "Propose a digital twin for off-the-shelf optical tracking systems using CoppeliaSim and Python scripting.",
+                     "Development of a virtual environment for single camera calibration, enabling 70% more agility in the calibration process through simulated tests"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
+      "organization": "IEEE RAS Student Branch Chapter of UFCG",
+      "location": "Campina Grande, Brazil",
+      "position": "Student Member",
+      "url": "https://edu.ieee.org/br-ufcgras/diretoria/",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "summary": "Member of the executive committee of IEEE Robotics and Automation Society Student Branch Chapter in Universidade Federal de Campina Grande.",
+      "highlights": ["Organized training sessions about Mobile Robotics, Computer Vision, Electronic Circuits and Simulation for Electrical Engineering undergraduate students.",
+                     "Won numerous IEEE contests as Chair of the chapter, including the 2025 RAS Student Chapter of The Year, placing the group among the best technical chapters in the world"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Federal University of Campina Grande, Brazil",
+      "location": "Campina Grande, Brazil",
+      "url": "https://www.dee.ufcg.edu.br/", 
+      "area": "Electrical Engineering",
+      "studyType": "Bsc",
+      "startDate": "",
+      "endDate": "",
+      "score": "8.9",
+      "courses": ["Enphasis in control and automation"]
     }
   ],
   "awards": [
