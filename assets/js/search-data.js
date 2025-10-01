@@ -432,7 +432,7 @@ ninja.data = [{
           section: "News",},{id: "news-for-developing-the-robotics-and-automation-area-in-the-northeast-brazil-region-receive-the-ieee-ras-exemplary-student-of-northeast-brazil-section-award",
           title: 'For developing the robotics and automation area in the Northeast Brazil Region, receive...',
           description: "",
-          section: "News",},{id: "news-as-chair-of-ieee-ras-student-branch-chapter-of-ufcg-received-the-award-of-ieee-ras-student-branch-chapter-of-the-year-2025",
+          section: "News",},{id: "news-as-chair-of-ieee-ras-student-branch-chapter-of-ufcg-received-the-award-of-ieee-ras-student-branch-chapter-of-the-year-2025-in-the-international-conference-of-robotics-and-automation-icra",
           title: 'As chair of IEEE RAS Student Branch Chapter of UFCG, received the award...',
           description: "",
           section: "News",},{id: "projects-project-1",
