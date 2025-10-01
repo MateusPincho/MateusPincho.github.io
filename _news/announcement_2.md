@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-As chair of IEEE RAS Student Branch Chapter of UFCG, received the award of _IEEE RAS Student Branch Chapter of the Year 2025_
+As chair of IEEE RAS Student Branch Chapter of UFCG, received the award of _IEEE RAS Student Branch Chapter of the Year 2025_ in the _International Conference of Robotics and Automation (ICRA)_.
