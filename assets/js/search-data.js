@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-an-introduction-to-path-planning-using-in-ros2",
+        
+          title: "An Introduction to Path Planning using in ROS2",
+        
+        description: "tutorial of how to configure and use the Nav2 Planner Server for path planning with mobile robots",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/nav2-planner/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
