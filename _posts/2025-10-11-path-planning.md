@@ -157,4 +157,6 @@ $$
 
 - e) Add to Tree: If the path is collision-free, add qnew​ as a new node to the tree $T$, with an edge connecting it back to qnear​.
 
-Goal Connection: Once a node $q_{new}$ is added that is within a certain threshold of the goal, the algorithm attempts to connect directly to $q_{goal}​$. If successful, the path is found by tracing the parent pointers from $q_{goal}​$ back to $q_{start}​$.
+3. Goal Connection: Once a node $q_{new}$ is added that is within a certain threshold of the goal, the algorithm attempts to connect directly to $q_{goal}​$. If successful, the path is found by tracing the parent pointers from $q_{goal}​$ back to $q_{start}​$.
+
+RRT and its variants represent a fundamental shift from deterministic searches to probabilistic exploration. They excel in solving high-dimensional path planning problems, such as those in robot arm manipulation and multi-robot systems, where grid-based methods are simply not feasible. While less common for standard 2D mobile robot navigation where planners like Hybrid A* offer a better balance of performance and path quality, RRT remains a great tool in the modern roboticist's path planning arsenal.
