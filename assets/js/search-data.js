@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-an-introduction-to-path-planning-using-in-ros2",
+        },{id: "post-an-introduction-to-path-planning-algorithms",
+        
+          title: "An Introduction to Path Planning Algorithms",
+        
+        description: "tutorial of the principal path planning algorithms",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/path-planning/";
+          
+        },
+      },{id: "post-an-introduction-to-path-planning-using-in-ros2",
         
           title: "An Introduction to Path Planning using in ROS2",
         
