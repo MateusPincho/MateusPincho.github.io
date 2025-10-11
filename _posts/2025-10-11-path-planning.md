@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Introduction to Path Planning Algorithms
-date: 2025-10-02 09:33:00
+date: 2025-10-10 09:33:00
 description: tutorial of the principal path planning algorithms
 tags: path-planning
 categories: navigation mobile-robots
